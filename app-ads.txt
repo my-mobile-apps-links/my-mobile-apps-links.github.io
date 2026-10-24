@@ -1,0 +1,3 @@
+# Authorized ad sellers for apps by NAZLIM (https://iabtechlab.com/app-ads-txt/)
+# Google AdMob: Live Cameras: Webcam Map (iOS and Android). One line per publisher account covers all its apps.
+google.com, pub-1635640384594274, DIRECT, f08c47fec0942fa0
