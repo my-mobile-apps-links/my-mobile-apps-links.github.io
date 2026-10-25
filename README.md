@@ -12,6 +12,7 @@ Developer website for apps by NAZLIM, published with GitHub Pages at <https://my
   |---|---|
   | Live Cameras (iOS & Android) | <https://my-mobile-apps-links.github.io/privacy-policies/live-cameras/> |
   | Shake to DND (Android) | <https://my-mobile-apps-links.github.io/privacy-policies/shake-to-dnd/> |
+  | Walkie Talkie Pro (iOS & Android) | <https://my-mobile-apps-links.github.io/privacy-policies/walkie-talkie-pro/> |
 
   To add an app: create `privacy-policies/<app-name>/index.html` (copy an existing one, it uses `../style.css`)
   and link it from `privacy-policies/index.html` and the root `index.html`.
