@@ -11,3 +11,6 @@ h2 { font-size: 1.2rem; margin-top: 2em; }
 a { color: var(--link); }
 li { margin: 0.4em 0; }
 code { font-size: 0.9em; }
+.lang { font-size: 0.9rem; color: var(--muted); margin-bottom: 1.5em; }
+.lang a, .lang strong { margin-right: 0.7em; white-space: nowrap; }
+.note { color: var(--muted); font-size: 0.9rem; font-style: italic; }

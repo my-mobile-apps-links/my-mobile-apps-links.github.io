@@ -12,7 +12,10 @@ Developer website for apps by NAZLIM, published with GitHub Pages at <https://my
   |---|---|
   | Live Cameras (iOS & Android) | <https://my-mobile-apps-links.github.io/privacy-policies/live-cameras/> |
   | Shake to DND (Android) | <https://my-mobile-apps-links.github.io/privacy-policies/shake-to-dnd/> |
-  | Walkie Talkie Pro (iOS & Android) | <https://my-mobile-apps-links.github.io/privacy-policies/walkie-talkie-pro/> |
+  | Walkie Talkie Pro (iOS & Android) | <https://my-mobile-apps-links.github.io/privacy-policies/walkie-talkie-pro/> (translations: `az/ de/ es/ fr/ pt/ ru/ tr/ zh/`) |
+
+  Translations go in `privacy-policies/<app-name>/<lang>/index.html` (English stays at the app folder root).
+  Each page links all languages in a `<nav class="lang">` switcher and lists them as `hreflang` alternates.
 
   To add an app: create `privacy-policies/<app-name>/index.html` (copy an existing one, it uses `../style.css`)
   and link it from `privacy-policies/index.html` and the root `index.html`.
