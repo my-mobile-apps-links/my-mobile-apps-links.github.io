@@ -1,3 +1,8 @@
 # Authorized ad sellers for apps by NAZLIM (https://iabtechlab.com/app-ads-txt/)
-# Google AdMob: Live Cameras: Webcam Map (iOS and Android). One line per publisher account covers all its apps.
+# Google AdMob: one line per publisher account covers all its apps
+# (Live Cameras: Webcam Map, Walkie Talkie Pro).
 google.com, pub-1635640384594274, DIRECT, f08c47fec0942fa0
+
+# AdMob mediation partners
+# Liftoff Monetize (Vungle)
+vungle.com, 6ae91ec8008cfe5bdcf003d1, DIRECT, c107d686becd2d77
